@@ -1,0 +1,24 @@
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "module 18; pizza-hunt",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotdlew/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dotdlew/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/dotdlew/pizza-hunt#readme"
+}
