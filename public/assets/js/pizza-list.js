@@ -18,8 +18,8 @@ const printPizza = ({ _id, pizzaName, toppings, size, commentCount, createdBy, c
         <h3 class="card-header">${pizzaName}</h3>
         <div class="card-body flex-column col-auto">
           <h4 class="text-dark">By ${createdBy}</h4>
-          <p>On ${createdAt}</p>
           <p>${commentCount} Comments</p>
+          <p>On ${createdAt}</p>
           <h5 class="text-dark">Suggested Size: ${size}
           <h5 class="text-dark">Toppings</h5>
           <ul>
